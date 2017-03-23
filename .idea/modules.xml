@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdleGoodsExchange.iml" filepath="$PROJECT_DIR$/.idea/IdleGoodsExchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdleGoodsExchange-Admin/IdleGoodsExchange-Admin.iml" filepath="$PROJECT_DIR$/IdleGoodsExchange-Admin/IdleGoodsExchange-Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdleGoodsExchange-User/IdleGoodsExchange-User.iml" filepath="$PROJECT_DIR$/IdleGoodsExchange-User/IdleGoodsExchange-User.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IdleGoodsExchange-User:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IdleGoodsExchange_User_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IdleGoodsExchange-User/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IdleGoodsExchange-User" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
